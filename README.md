@@ -1,1 +1,1 @@
-# emotion-detection
+# emo-classification
